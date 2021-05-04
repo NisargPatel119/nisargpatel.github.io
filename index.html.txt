@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<title>NisargPatel119.github.io </title>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
